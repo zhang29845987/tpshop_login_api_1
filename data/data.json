@@ -1,0 +1,20 @@
+[
+  {
+    "username": "18246640990",
+    "password": "123456",
+    "code": "8888",
+    "expect": "登陆成功"
+  },
+  {
+    "username": "14789445555",
+    "password": "123456",
+    "code": "8888",
+    "expect": "账号不存在"
+  },
+  {
+    "username": "18246640990",
+    "password": "errror",
+    "code": "8888",
+    "expect": "密码错误"
+  }
+]
